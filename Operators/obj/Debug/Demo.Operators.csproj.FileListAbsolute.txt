@@ -1,0 +1,6 @@
+F:\Ilya\С#kurs\Lection7\Demo.Operators\bin\Debug\Demo.Operators.exe.config
+F:\Ilya\С#kurs\Lection7\Demo.Operators\bin\Debug\Demo.Operators.exe
+F:\Ilya\С#kurs\Lection7\Demo.Operators\bin\Debug\Demo.Operators.pdb
+F:\Ilya\С#kurs\Lection7\Demo.Operators\obj\Debug\Demo.Operators.csproj.CoreCompileInputs.cache
+F:\Ilya\С#kurs\Lection7\Demo.Operators\obj\Debug\Demo.Operators.exe
+F:\Ilya\С#kurs\Lection7\Demo.Operators\obj\Debug\Demo.Operators.pdb

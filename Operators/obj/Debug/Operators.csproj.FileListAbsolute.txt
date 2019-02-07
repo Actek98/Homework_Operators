@@ -1,0 +1,7 @@
+F:\Ilya\GIT_rep\Homevork_Operator\Operators\obj\Debug\Operators.csprojAssemblyReference.cache
+F:\Ilya\GIT_rep\Homevork_Operator\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+F:\Ilya\GIT_rep\Homevork_Operator\Operators\bin\Debug\Operators.exe.config
+F:\Ilya\GIT_rep\Homevork_Operator\Operators\bin\Debug\Operators.exe
+F:\Ilya\GIT_rep\Homevork_Operator\Operators\bin\Debug\Operators.pdb
+F:\Ilya\GIT_rep\Homevork_Operator\Operators\obj\Debug\Operators.exe
+F:\Ilya\GIT_rep\Homevork_Operator\Operators\obj\Debug\Operators.pdb
